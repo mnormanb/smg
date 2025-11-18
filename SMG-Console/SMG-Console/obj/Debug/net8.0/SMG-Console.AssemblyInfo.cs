@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SMG-Console")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d3f244831c719072d5aca797d597dee56f199b19")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e995bb2aed545a8fd818415b89504db10da284b")]
 [assembly: System.Reflection.AssemblyProductAttribute("SMG-Console")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SMG-Console")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
